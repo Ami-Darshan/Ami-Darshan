@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and Coding Stuffs.
 - 🌱 Iim currently making a humanoid Robot.
 - 📫 How to reach me.
-- Gmail...__pdldarshan008@gmail.com_____
+- Gmail...__pdldarshan008@gmail.com__
 - Website...__https://rsddarshan.netlify.app/__
 - Insta Id...__https://www.instagram.com/rsd__darshan/__
 - Facebook...__https://www.facebook.com/profile.php?id=100084426002544__
