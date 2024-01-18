@@ -3,7 +3,7 @@
 - 🌱 Iim currently making a humanoid Robot.
 - 📫 How to reach me.
 - Gmail...__pdldarshan008@gmail.com_____
-- Website...__rsddarshan.netlify.app__
+- Website...__https://rsddarshan.netlify.app/__
 - Insta Id...__https://www.instagram.com/rsd__darshan/__
 - Facebook...__https://www.facebook.com/profile.php?id=100084426002544__
 - Linkedin...__https://www.linkedin.com/in/darshan-rsd/__
